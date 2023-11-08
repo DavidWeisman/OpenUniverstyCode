@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MagicSquare
+comment0.text=\r\n\ This\ class\ represents\ a\ Company\ object\r\n\ @author\ David\ Weisman\r\n\ @version\ 19-01-2023\r\n
+comment1.params=mat\ row
+comment1.target=int\ sumRow(int[][],\ int)
+comment1.text=\r\n\ Calculates\ the\ sum\ of\ all\ terms\ in\ a\ row\r\n\ @param\ mat\ the\ square\ matrix\r\n\ @param\ row\ the\ number\ of\ the\ row\r\n\ @return\ sum\ of\ the\ terms\ in\ a\ row\r\n
+comment2.params=mat\ col
+comment2.target=int\ sumCol(int[][],\ int)
+comment2.text=\r\n\ Calculates\ the\ sum\ of\ all\ terms\ in\ a\ column\r\n\ @param\ mat\ the\ square\ matrix\r\n\ @param\ col\ the\ number\ of\ the\ column\r\n\ @return\ sum\ of\ the\ terms\ in\ a\ column\r\n
+comment3.params=mat
+comment3.target=int\ sumPrimaryDiag(int[][])
+comment3.text=\r\n\ Calculates\ the\ sum\ of\ all\ terms\ in\ the\ first\ diagonal\r\n\ @param\ mat\ the\ square\ matrix\r\n\ @return\ sum\ of\ the\ terms\ in\ the\ first\ diagonal\r\n
+comment4.params=mat
+comment4.target=int\ sumSecondaryDiag(int[][])
+comment4.text=\r\n\ Calculates\ the\ sum\ of\ all\ terms\ in\ the\ second\ diagonal\r\n\ @param\ mat\ the\ square\ matrix\r\n\ @return\ sum\ of\ the\ terms\ in\ the\ second\ \ diagonal\r\n
+comment5.params=mat
+comment5.target=boolean\ isMagicSquare(int[][])
+comment5.text=\r\n\ Checks\ if\ the\ matrix\ is\ \u200B\u200Ba\ magic\ square\r\n\ @param\ mat\ matrix\r\n\ @return\ true\ if\ the\ matrix\ is\ a\ magic\ square,\ otherwise\ false\r\n
+numComments=6
