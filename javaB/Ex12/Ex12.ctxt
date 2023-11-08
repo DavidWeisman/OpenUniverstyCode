@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ex12
+comment0.text=\r\n\ This\ class\ represents\ a\ Mamn12\r\n\ @author\ David\ Weisman\r\n\ @version\ 13-05-2023\r\n
+comment1.params=num
+comment1.target=int\ equalDigits(int)
+comment1.text=\r\n\ A\ method\ that\ accepts\ a\ positive\ integer\ number\ and\ returns\ \r\n\ the\ length\ of\ the\ longest\ sequence\ of\ digits\ found\ in\ a\ number.\r\n\ @param\ one\ positive\ integer\ number\r\n\ @return\ the\ longest\ sequence\ of\ digits\ found\ in\ a\ number.\r\n
+comment2.params=num\ max1\ max2
+comment2.target=int\ equalDigits(int,\ int,\ int)
+comment3.params=num\ digit
+comment3.target=int\ subNumber(int,\ int)
+comment3.text=\r\n\ A\ method\ that\ accepts\ a\ positive\ integer\ number\ and\ a\ digit,\r\n\ The\ method\ returns\ the\ a\ subnumber\ in\ which\ all\ the\ digits\ are\ divisible\ by\ the\ digit.\r\n\ @param\ positive\ interger\ number.\r\n\ @param\ digit\ between\ zero\ and\ nine.\r\n\ @return\ subnumber\ in\ which\ all\ the\ digits\ are\ divisible\ by\ the\ digit.\r\n
+comment4.params=n
+comment4.target=boolean\ isSpecial(int)
+comment4.text=\r\n\ A\ method\ that\ accepts\ a\ positive\ integer\ number\ and\r\n\ return\ true\ if\ the\ number\ is\ special\ number,\ false\ if\ the\ number\ isn't\ special\ number.\r\n\ @param\ positive\ integer\ number.\r\n\ @return\ true\ if\ the\ number\ is\ special\ number,\ false\ if\ the\ number\ isn't\ special\ number\ \r\n
+comment5.params=n\ index
+comment5.target=boolean\ isSpecial(int,\ int)
+numComments=6

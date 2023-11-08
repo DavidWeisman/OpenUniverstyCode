@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ex13
+comment0.text=\r\n\ This\ class\ represents\ a\ Mamn13\r\n\ @author\ David\ Weisman\r\n\ @version\ 27-05-2023\r\n
+comment1.params=arr
+comment1.target=int\ longestPalindrome(int[])
+comment1.text=\r\n\ A\ method\ accepts\ a\ one-dimensional\ array\ containing\ integers.\r\n\ The\ method\ returns\ the\ length\ of\ the\ longest\ palindrome\ in\ the\ array.\r\n\ @param\ one-dimensional\ array\ cotaining\ integers.\r\n\ @return\ the\ length\ of\ the\ longest\ palindrome\ in\ the\ array.\r\n
+comment2.params=arr\ index1\ index2\ counter\ maxLenght
+comment2.target=int\ longestPalindrome(int[],\ int,\ int,\ int,\ int)
+comment3.params=arr\ index1\ index2
+comment3.target=int\ longestPalindrome(int[],\ int,\ int)
+comment4.params=a\ num
+comment4.target=boolean\ isSum(int[],\ int)
+comment4.text=\r\n\ A\ method\ accepts\ a\ one-dimensional\ array\ containing\ integers\ and\ one\ number.\r\n\ The\ method\ returns\ true\ if\ there\ is\ a\ subset\ of\ the\ elements\ of\ the\ array,\ that\ the\ sum\ of\ the\ elements\ equlse\ to\ the\ accept\ number,\ otherwise\ return\ false.\r\n\ The\ function\ fulfills\ the\ following\ conditions\:\r\n\ 1.\ Does\ not\ use\ the\ values\ of\ three\u00A0adjacent\u00A0cells\r\n\ 2.\ Does\ use\ the\ same\ index\ value\ more\ than\u00A0once\r\n\ @parem\ a\ the\ array\ of\ integers.\r\n\ @param\ num\ the\ one\ number.\r\n\ @return\ true\ if\ there\ is\ a\ subset\ of\ the\ elements\ of\ the\ array,\ otherwise\ return\ false.\r\n
+comment5.params=a\ counter\ i\ num
+comment5.target=boolean\ isSum(int[],\ int,\ int,\ int)
+numComments=6

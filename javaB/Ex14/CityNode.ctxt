@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CityNode
+comment0.text=\r\n\ This\ class\ represents\ a\ Mamn14\r\n\ @author\ David\ Weisman\r\n\ @version\ 10-06-2023\r\n
+comment1.params=c
+comment1.target=CityNode(City)
+comment1.text=\r\n\ Creates\ a\ new\ CityNode\ object.\r\n\ The\ next\ points\ to\ null.\r\n\ @param\ c\ the\ first\ city\ of\ the\ city\ node.\r\n
+comment2.params=c\ next
+comment2.target=CityNode(City,\ CityNode)
+comment2.text=\r\n\ Creates\ a\ new\ CityNode\ object.\r\n\ @param\ c\ the\ first\ city\ of\ the\ city\ node.\r\n\ @param\ next\ the\ next\ city\ node.\r\n
+comment3.params=c
+comment3.target=CityNode(CityNode)
+comment3.text=\r\n\ Creates\ a\ copy\ CityNode\ object.\r\n\ @param\ c\ the\ city\ node\ the\ been\ coped.\r\n
+comment4.params=
+comment4.target=City\ getCity()
+comment4.text=\r\n\ Get\ the\ city\ of\ the\ city\ node\r\n\ @return\ the\ city\ of\ the\ city\ node\r\n
+comment5.params=
+comment5.target=CityNode\ getNext()
+comment5.text=\r\n\ Get\ the\ next\ city\ node\ of\ the\ city\ node\r\n\ @return\ the\ next\ city\ node\ of\ the\ city\ node\r\n
+comment6.params=c
+comment6.target=void\ setCity(City)
+comment6.text=\r\n\ Sets\ the\ city\ of\ the\ city\ node\r\n\ @param\ city\ for\ set\r\n
+comment7.params=next
+comment7.target=void\ setNext(CityNode)
+comment7.text=\r\n\ Sets\ the\ new\ city\ node\ of\ the\ city\ node\r\n\ @param\ city\ node\ for\ set\r\n
+numComments=8
